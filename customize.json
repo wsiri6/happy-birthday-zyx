@@ -3,7 +3,7 @@
   "name": "馨馨宝宝",
   "greetingText": "尽管你说我不用来，麻烦",
   "wishText": "但我依然希望来陪着你过生日! ;)",
-  "imagePath": "img/1.png",
+  "imagePath": "img/1.jpeg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!!  ",
   "sendButtonLabel": "发送",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "狗狗生日快乐！",
+  "replayText": "永远爱你❤️",
   "outroSmiley": ":)"
 }
